@@ -1,2 +1,2 @@
 # football-analyser
-![alt text] (https://github.com/anaene/football-analyser/blob/master/football.png)
+![alt text] (https://github.com/anaene/football-analyser/master/football.png)
